@@ -26,16 +26,16 @@
 #### [Exam topics](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Emner%20til%20mundtlig%20eksamen.docx)
 
 
-### Comparison of methods - Monday 11th December
+### Comparison of methods - Tuesday
 #### Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
 #### Leffingwell - chap 1: A brief history ...
 #### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Comparison%20of%20methods%202018.pptx)
 
-### Choice of methods - Tuesday 12th December
+### Choice of methods - Wednesday
 #### Boehm: “Rebalancing Your Organization’s Agility and Discipline”
 #### Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
 
-### Areas of knowledge and Experiments - Wednesday 13th December
+### Areas of knowledge and Experiments - Thursday
 #### Kensing and Munk-Madsen: Structure in the Toolbox
 
 
