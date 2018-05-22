@@ -8,7 +8,7 @@
 
 
 ## Learning objectives
-- know mportant criterias to apply when selecting software development method
+- know important criterias to apply when selecting software development method
 - know possible and appropprate ways to adjust established methods to specific situations- 
 - know the difference between concrete and abstract knowledge
 - know how co-operation with end users can benefit when seeking knowledge in specific areas
@@ -20,12 +20,16 @@
 ## Business competencies 
 - be able to choose and adjust a method based on the concrete situation
 
+
 ## Resources
+#### [Project report requirements](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/3.%20semester%20SYS%20report%202018.docx)
+#### [Exam topics](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Emner%20til%20mundtlig%20eksamen.docx)
+
 
 ### Comparison of methods - Monday 11th December
 #### Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
 #### Leffingwell - chap 1: A brief history ...
-
+#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Comparison%20of%20methods%202018.pptx)
 
 ### Choice of methods - Tuesday 12th December
 #### Boehm: “Rebalancing Your Organization’s Agility and Discipline”
@@ -33,6 +37,6 @@
 
 ### Areas of knowledge and Experiments - Wednesday 13th December
 #### Kensing and Munk-Madsen: Structure in the Toolbox
-#### [PowerPoint slides - no link yet](url)
+
 
 
