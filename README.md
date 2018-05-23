@@ -34,6 +34,9 @@
 ### Choice of methods - Wednesday
 #### Boehm: “Rebalancing Your Organization’s Agility and Discipline”
 #### Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
+#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Choice%20and%20adaption%20of%20methods.pptx
+)
+
 
 ### Areas of knowledge and Experiments - Thursday
 #### Kensing and Munk-Madsen: Structure in the Toolbox
