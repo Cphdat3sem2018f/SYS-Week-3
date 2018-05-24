@@ -39,6 +39,7 @@
 
 ### Areas of knowledge and Experiments - Thursday
 #### Kensing and Munk-Madsen: Structure in the Toolbox
+#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Areas%20of%20knowledge%20%2B%20Experiments.pptx)
 
 
 
