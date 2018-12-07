@@ -1,9 +1,10 @@
 # Reflections after the project
 
 ## Plan
-### Tuesday - Comparison of methods
-### Wednesday – Choice of methods
-### Thursday – Areas of knowledge and Experiments
+### Monday - Comparison of methods
+### Tuesday – Choice of methods
+### Wednesday – Areas of knowledge and Experiments
+### Thursday – Report Writing and counselling
 ### Friday – Report Writing and counselling
 
 
@@ -22,24 +23,21 @@
 
 
 ## Resources
-#### [Project report requirements](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/3.%20semester%20SYS%20report%202018.docx)
-#### [Exam topics](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Emner%20til%20mundtlig%20eksamen.docx)
+#### Project report requirements - see document in this repository
+#### Exam topics - see document in this repository
 
-
-### Comparison of methods - Tuesday
+### Comparison of methods - Monday
 #### Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
 #### Leffingwell - chap 1: A brief history ...
-#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Comparison%20of%20methods%202018.pptx)
+#### PowerPoint slides - see in this repository
 
-### Choice of methods - Wednesday
+### Choice of methods - Tuesday
 #### Boehm: “Rebalancing Your Organization’s Agility and Discipline”
 #### Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
-#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Choice%20and%20adaption%20of%20methods.pptx)
+#### PowerPoint slides - see in this repository
 
-
-### Areas of knowledge and Experiments - Thursday
+### Areas of knowledge and Experiments - Wednesday
 #### Kensing and Munk-Madsen: Structure in the Toolbox
-#### [PowerPoint slides](https://github.com/Cphdat3sem2018s/SYS-Week3/blob/master/Areas%20of%20knowledge%20%2B%20Experiments.pptx)
-
+#### PowerPoint slides - see in this repository
 
 
